@@ -1,21 +1,19 @@
 Assets
 +---btgame
-| +---Assets
-| | +---Art
-| | | +---Models
-| | | +---Materials
+| +---Art
+| | +---Models
+| | +---Materials
 | | +---Code
 | | | +---Scripts
-| | +---Level
-| | | +---Prefabs
-| | | +---Scenes
-| | | +---Playgrounds
-| | | | +---Blazej
-| | | | +---Ignacy
-| | | | +---Mikolaj
-| | | | +---Szymon
-| | +---Documentation
-| | | +---ConceptArts
-
+| +---Level
+| | +---Prefabs
+| | +---Scenes
+| | +---Playgrounds
+| | | +---Blazej
+| | | +---Ignacy
+| | | +---Mikolaj
+| | | +---Szymon
+| +---Documentation
+| | +---ConceptArts
 
 # https://unity.com/how-to/organizing-your-project	
